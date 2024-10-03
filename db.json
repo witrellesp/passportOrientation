@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastname": "Doe",
+      "classe": "CIN1A",
+      "age": 18,
+      "note1": 12,
+      "note2": 14,
+      "note3": 16,
+      "note4": 13
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "lastname": "Smith",
+      "classe": "CIN2A",
+      "age": 19,
+      "note1": 15,
+      "note2": 17,
+      "note3": 14,
+      "note4": 16
+    },
+    {
+      "id": 3,
+      "name": "Alice",
+      "lastname": "Johnson",
+      "classe": "CIN2C",
+      "age": 20,
+      "note1": 10,
+      "note2": 11,
+      "note3": 12,
+      "note4": 13
+    }
+  ]
+}

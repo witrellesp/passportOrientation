@@ -1,0 +1,8 @@
+
+faire una application web qui remplace les passeports d'orientation en format papier/word/pdf  
+Monsieur Xavier Carrel
+
+Formulaire qui produit un document passeport.PDF/WORDnet localgroup docker-users "eleve-windows-id" /ADD
+
+Journal de travail
+net localgroup docker-users pq81jlv@eduvaud.ch /ADD
