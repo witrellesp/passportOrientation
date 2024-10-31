@@ -33,3 +33,14 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### DB fictive my-json-server
+
+```sh
+npm install -g json-server
+/path/db.json/> $ json-server --watch db.json
+```
+
+```
+url db: http://localhost:3000
+```

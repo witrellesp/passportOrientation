@@ -1,7 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import Header from './components/Header.vue'
-import Formulaire from './components/Formulaire.vue';
+import Formulaire from './views/Formulaire.vue';
 
 
 </script>
