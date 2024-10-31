@@ -33,3 +33,7 @@ npm install -g json-server
 ```
 url db: http://localhost:3000
 ```
+### Library to generate the PDF documents
+```
+npm install jspdf
+```
