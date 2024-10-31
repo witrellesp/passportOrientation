@@ -1,9 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import Header from './components/Header.vue'
-import Formulaire from './views/Formulaire.vue';
-
-
+import Formulaire from './views/Formulaire.vue'
 </script>
 
 <template>
@@ -17,7 +15,6 @@ import Formulaire from './views/Formulaire.vue';
         <RouterLink to="/passport">Passport</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
-
     </div>
   </header>
 
@@ -28,9 +25,7 @@ import Formulaire from './views/Formulaire.vue';
 body {
   display: flex;
   flex-direction: column;
-
 }
-
 
 header {
   line-height: 1.5;
@@ -53,8 +48,6 @@ nav a.router-link-exact-active {
   color: var(--color-text);
 }
 
-
-
 nav a {
   display: inline-block;
   padding: 0 1rem;
@@ -64,8 +57,6 @@ nav a {
 nav a:first-of-type {
   border: 0;
 }
-
-
 
 @media (min-width: 1024px) {
   header {
